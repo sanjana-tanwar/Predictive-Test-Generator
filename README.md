@@ -4,7 +4,7 @@ An AI-powered web application that generates personalized test questions based o
 
 ## 🚀 Live Demo
 
-👉 [Live Website](https://predictive-test-generator.vercel.app/)
+👉 [Live Website](https://sanjana-tanwar.github.io/Predictive-Test-Generator/)
 
 ## 📌 Features
 
