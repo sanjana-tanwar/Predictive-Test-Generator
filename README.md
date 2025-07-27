@@ -2,10 +2,6 @@
 
 An AI-powered web application that generates personalized test questions based on the user's input topic and difficulty level using OpenAI's GPT model. This tool is ideal for students and educators who want to create dynamic practice tests in seconds.
 
-## 🚀 Live Demo
-
-👉 [Live Website](https://sanjana-tanwar.github.io/Predictive-Test-Generator/)
-
 ## 📌 Features
 
 - 🧑‍🎓 Generate multiple-choice questions on any topic
