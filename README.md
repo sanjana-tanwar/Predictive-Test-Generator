@@ -20,10 +20,7 @@ An AI-powered web application that generates personalized test questions based o
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="https://github.com/sanjana-tanwar/Predictive-Test-Generator/assets/117594940/6f4c2932-8b9f-4125-8b71-6c3b540e4d82" alt="Home Page" width="600"/>
-</p>
-<p align="center">
-  <img src="https://github.com/sanjana-tanwar/Predictive-Test-Generator/assets/117594940/8f7a5930-c937-4c39-b7f8-9f7025e390a1" alt="Generated Test Page" width="600"/>
+  <img src="https://github.com/sanjana-tanwar/Predictive-Test-Generator/blob/main/py%20pro.jpg" alt="Home Page" width="600"/>
 </p>
 
 ## 📦 Installation
